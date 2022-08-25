@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Shows the pid and sockets working in your PC
+netstat -lp
